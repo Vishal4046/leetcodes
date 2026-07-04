@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vishal4046/leetcodes/tree/master/0001-two-sum) |
+| [0283-move-zeroes](https://github.com/Vishal4046/leetcodes/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/Vishal4046/leetcodes/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Vishal4046/leetcodes/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/Vishal4046/leetcodes/tree/master/0177-nth-highest-salary) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Vishal4046/leetcodes/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
